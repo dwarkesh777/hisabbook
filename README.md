@@ -48,8 +48,6 @@ Manage your daily income, expenses, budgets, and financial reports with a clean,
 ---
 
 ## 📥 Download
-
-### 👉 **[⬇ Download HisabBook APK]**
 <p align="center">
   <a href="https://raw.githubusercontent.com/dwarkesh777/hisabbook/main/hisabbook.apk">
     <img src="https://img.shields.io/badge/📥%20Download-App-2ea44f?style=for-the-badge" alt="Download">

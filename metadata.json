@@ -1,5 +1,5 @@
 {
-  "name": "Expense Tracker",
+  "name": "hisabbook",
   "description": "An elegant, offline-first personal finance app with rich tracking, category budgeting, dynamic visualizations, and secure local storage.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

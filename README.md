@@ -53,8 +53,10 @@ Manage your daily income, expenses, budgets, and financial reports with a clean,
 
 ## 📥 Download
 
-### 👉 **[⬇ Download HisabBook APK](./hisabbook.apk)**
-
+### 👉 **[⬇ Download HisabBook APK](""https://raw.githubusercontent.com/PiyushJT/Centsible/main/readme_res/centsible.apk"")**
+  <a href="https://raw.githubusercontent.com/PiyushJT/Centsible/main/readme_res/centsible.apk">
+    <img src="https://raw.githubusercontent.com/PiyushJT/Centsible/main/readme_res/apk_dwnld.png" height="80">
+  </a>
 ---
 
 ## 📌 Why HisabBook?

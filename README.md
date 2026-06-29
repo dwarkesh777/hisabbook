@@ -1,21 +1,94 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 📒 HisabBook
 
-# Run and deploy your AI Studio app
+<p align="center">
+  <img src="logo.jpeg" alt="HisabBook Logo" width="180">
+</p>
 
-This contains everything you need to run your app locally.
+<h2 align="center">💰 Smart Expense & Income Tracker</h2>
 
-View your app in AI Studio: https://ai.studio/apps/42ecb8c0-34df-4ac3-b773-f76469dfda57
+<p align="center">
+Manage your daily income, expenses, budgets, and financial reports with a clean, fast, and user-friendly interface.
+</p>
 
-## Run Locally
+<p align="center">
+  <a href="./hisabbook.apk">
+    <img src="https://img.shields.io/badge/📥%20Download-App-2ea44f?style=for-the-badge" alt="Download">
+  </a>
+</p>
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
+---
 
+## ✨ Features
 
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
+- 💵 Track Income & Expenses
+- 📊 Beautiful Analytics Dashboard
+- 📈 Monthly Budget Management
+- 🏷️ Category-wise Transactions
+- 💳 Cash & Online Payment Tracking
+- 🔍 Search & Filter Transactions
+- 📂 Export CSV
+- 📥 Import CSV
+- 📄 Download Financial Reports (PDF)
+- 🌍 Multiple Currency Support
+- 🚀 Fast & Lightweight
+- 🔒 Offline & Secure
+- 🚫 Ad-Free Experience
+
+---
+
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dwarkesh777/HisabBook/main/screen/screen.png" alt="HisabBook Screenshots">
+</p>
+
+## 🚀 Installation
+
+1. Download the APK.
+2. Install it on your Android device.
+3. Allow **Install from Unknown Sources** if prompted.
+4. Open **HisabBook** and start managing your finances.
+
+---
+
+## 📥 Download
+
+### 👉 **[⬇ Download HisabBook APK](./hisabbook.apk)**
+
+---
+
+## 📌 Why HisabBook?
+
+✔ Easy to Use
+
+✔ Clean UI
+
+✔ Smart Analytics
+
+✔ Category-wise Reports
+
+✔ Offline Support
+
+✔ Secure Data
+
+✔ No Advertisements
+
+✔ Fast Performance
+
+---
+
+## 👨‍💻 Developer
+
+**Dwarkesh Savaliya**
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to **⭐ Star** the repository and share it with your friends.
+
+---
+
+<p align="center">
+Made  by <b>Dwarkesh Savaliya</b>
+</p>
